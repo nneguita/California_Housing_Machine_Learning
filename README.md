@@ -1,4 +1,5 @@
 # **Capstone Project 3: Machine Learning**
+This project is made for my module 3 project in Purwadhika Digital Technology School
 # **California Housing Price**
 # **Contents**
 I.  Business Understanding </br>
